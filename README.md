@@ -42,7 +42,7 @@ To get started with the Friends Application, follow the installation and setup i
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/fahimjadid/friends-application-demo.git
+   git clone https://github.com/FahimJadid/friends-application-demo.git
    cd friends-application-demo
    ```
 
